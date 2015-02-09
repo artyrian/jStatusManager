@@ -1,3 +1,5 @@
+#copy this file to resources catalog withous '.example' in name.
+
 #bitbucket user infrastructure login
 bitbucket.username=
 #bitbucket user infrastructure password
