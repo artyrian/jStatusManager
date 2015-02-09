@@ -1,0 +1,24 @@
+#bitbucket user infrastructure login
+bitbucket.username=
+#bitbucket user infrastructure password
+bitbucket.password=
+#bitbucket repository owner which is monitoring
+bibucket.ownerRepository=
+#bitbucket repository name which is monitoring
+bitbucket.repositoryName=terminalwms
+
+# Use here nicks on bitbucket. To separate write ',' (without quotes)
+#$ To add total info by assignees use '__all' (without quotes)
+bitbucket.assignees=
+
+#url path to jenkins server
+jenkins.url=
+#jenkins user inftrastructure login
+jenkins.username=
+#jenkins user infrastructure password
+jenkins.password=
+#jenkins monitoring job
+jenkins.job=
+
+#period stat crawler update. set period in seconds. By default sets 600 seconds (every 10 minutes).
+execute.secondsPeriodUpdate=600
